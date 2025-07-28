@@ -28,7 +28,7 @@
 ### ⚙️ Tech Stack
 
 - 💻 **Languages:** Python, Java, HTML/CSS, SQL  
-- 🔧 **Frameworks/Tools:** Flask, Streamlit, FastAPI, scikit-learn, Pandas, NumPy  
+- 🔧 **Frameworks/Tools:** Flask, Streamlit, scikit-learn, Pandas, NumPy  
 - 🎨 **Frontend:** Tailwind CSS, Bootstrap, React (basic)  
 - ☁️ **Other:** Git, GitHub Actions, Netlify, VS Code, Jupyter
 
