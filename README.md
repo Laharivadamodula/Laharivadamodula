@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lahari V! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=57F287&center=true&vCenter=true&width=435&lines=AI+%2B+Media-Enthusiast;Building+secure+and+smart+web+tools;Open+Source+Contributor+%7C+GSSoC+%2725" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=57F287&center=true&vCenter=true&width=435&lines=AI+%2B+ML-Enthusiast;Building+secure+and+smart+web+tools;Open+Source+Contributor+%7C+GSSoC+%2725" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 ### ⚙️ Tech Stack
 
-- 💻 **Languages:** Python, JavaScript, HTML/CSS, SQL  
+- 💻 **Languages:** Python, Java, JavaScript, HTML/CSS, SQL  
 - 🔧 **Frameworks/Tools:** Flask, Streamlit, FastAPI, scikit-learn, Pandas, NumPy  
 - 🎨 **Frontend:** Tailwind CSS, Bootstrap, React (basic)  
 - ☁️ **Other:** Git, GitHub Actions, Netlify, VS Code, Jupyter
@@ -63,7 +63,6 @@
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/lahariv)](https://linkedin.com/in/lahariv)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=firefox&logoColor=orange)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lahari.v@example.com)
 
 ---
